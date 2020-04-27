@@ -54,7 +54,7 @@ if(os.stat("logsout.txt").st_size != 0):
         # os.remove(filePath)
         # time.sleep(10)
         # f1.close()
-# os.remove("/lmshome/Sanjay/DeleteCores/logsout.txt")
+os.remove("/lmshome/Sanjay/DeleteCores/logsout.txt")
 
 
  
